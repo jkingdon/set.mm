@@ -178957,6 +178957,24 @@ $)
       CISUJUDUEUF $.
   $}
 
+  ${
+    $d g x A $.  $d g D $.  $d d f g x F $.  $d x ph $.  $d f R $.
+    fta1.1 $e |- R = ( `' F " { 0 } ) $.
+    fta1coe.s $e |- ( ph -> S C_ CC ) $.
+    fta1coe.n $e |- ( ph -> N e. NN0 ) $.
+    fta1coe.c $e |- ( ph -> A : NN0 --> S ) $.
+    fta1coe.f $e |- F = ( z e. CC
+      |-> sum_ k e. ( 0 ... N ) ( ( A ` k ) x. ( z ^ k ) ) ) $.
+    fta1coe.cn $e |- ( ph -> ( A ` N ) =//= 0 ) $.
+
+    $( The easy direction of the Fundamental Theorem of Algebra:  A nonzero
+       polynomial has at most a number of roots equal to the
+       degree of the polynomial.  (Contributed by Mario
+       Carneiro, 26-Jul-2014.) $)
+    fta1coe $p |- ( ph -> R ~<_ ( 1 ... N ) ) $=
+      ? $.
+  $}
+
 
 $(
 #*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
