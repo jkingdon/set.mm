@@ -71800,6 +71800,16 @@ $)
       OUKSUHUNUKTUAUBUCUDUEUF $.
   $}
 
+  ${
+    ecfi.er $e |- ( ph -> R Er X ) $.
+    ecfi.fi $e |- ( ph -> X e. Fin ) $.
+    $( An equivalence class of a finite domain is finite.
+       (Contributed by Jim Kingdon,
+       8-Aug-2026.) $)
+    ecfi $p |- ( ph -> [ A ] R e. Fin ) $=
+      ? $.
+  $}
+
 
 $(
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
