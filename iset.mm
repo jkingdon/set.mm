@@ -167895,6 +167895,20 @@ $)
     gsumclfi.g $e |- ( ph -> G e. CMnd ) $.
     gsumclfi.a $e |- ( ph -> A e. Fin ) $.
     gsumclfi.f $e |- ( ph -> F : A --> B ) $.
+
+    ${
+      gsumres.s $e |- ( ph -> ( F supp .0. ) C_ W ) $.
+      gsumresfi.w $e |- ( ph -> W e. Fin ) $.
+      gsumresfi.ss $e |- ( ph -> W C_ A ) $.
+      $( Extend a finite group sum by padding outside with zeroes.
+         (Contributed by Mario Carneiro, 15-Dec-2014.)  (Revised by Mario
+         Carneiro, 24-Apr-2016.)  (Revised by AV, 3-Jun-2019.)
+         (Revised by Jim Kingdon, 14-Sep-2026.) $)
+      gsumres $p |- ( ph -> ( G gsum ( F |` W ) ) = ( G gsum F ) ) $=
+        ( ccntz cfv eqid ccmn wcel cmnd cmnmnd syl cntzcmnf gsumzres ) ABCDEFGH
+        EPQZIJUFRZAESTEUATKEUBUCLMABCDEUFIUGKMUDNOUE $.
+    $}
+
     $( Closure of a finite group sum.  (Contributed by Jim Kingdon,
        8-Apr-2026.) $)
     gsumclfi $p |- ( ph -> ( G gsum F ) e. B ) $=
