@@ -168883,6 +168883,28 @@ $)
       RVOJUNEBCFVLVFVIVKUOUPURUSUTSVAVB $.
   $}
 
+  ${
+    $d j k x y z A $.  $d j k x y z F $.  $d j k x y z G $.  $d j k x y z ph $.
+    $d j k B $.  $d j k D $.  $d j k x y z .0. $.
+    gsum2d.b $e |- B = ( Base ` G ) $.
+    gsum2d.z $e |- .0. = ( 0g ` G ) $.
+    gsum2d.g $e |- ( ph -> G e. CMnd ) $.
+    gsum2dfi.a $e |- ( ph -> A e. Fin ) $.
+    gsum2d.r $e |- ( ph -> Rel A ) $.
+    gsum2d.d $e |- ( ph -> D e. W ) $.
+    gsum2d.s $e |- ( ph -> dom A C_ D ) $.
+    gsum2d.f $e |- ( ph -> F : A --> B ) $.
+    gsum2dfi.fi $e |- ( ( ph /\ j e. D ) -> ( A " { j } ) e. Fin ) $.
+    $( Lemma 1 for ~ gsum2dfi .  (Contributed by Mario Carneiro, 28-Dec-2014.)
+       (Revised by AV, 8-Jun-2019.)  (Revised by Jim Kingdon, 2-Oct-2026.) $)
+    gsum2dfilem1 $p |- ( ( ph /\ j e. D ) -> ( G gsum ( k e. ( A " { j } )
+                                         |-> ( j F k ) ) ) e. B ) $=
+      ( wcel cv wa csn cima co cmpt ccmn adantr wf cop elimasn df-ov ffvelcdmda
+      vex cfv eqeltrid sylan2b fmpttd gsumclfi ) AEUAZDTZUBBUTUCUDZCFVBUTFUAZGU
+      EZUFZHJKLAHUGTVAMUHSAVBCVEUIVAAFVBVDCVCVBTAUTVCUJZBTZVDCTBUTVCEUNFUNUKAVG
+      UBVDVFGUOCUTVCGULABCVFGRUMUPUQURUHUS $.
+  $}
+
 
 $(
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
