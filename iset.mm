@@ -182828,6 +182828,14 @@ $)
         SUTAUPULVAZWAULURZWBULURZVHAWCWFSDWALWDVBUTWGULWAUPWAUPVCVDVEVFAMDUPUCZ
         ULPAWEDULURWHULURZVHADLSVGWIULDUPDUPVCVDVEVIVJVKVL $.
     $}
+
+    $( The ` X i ` -th coefficient of the term ` X i ` is ` 1 ` .  (Contributed
+       by Mario Carneiro, 7-Jan-2015.) $)
+    mvrid $p |- ( ph -> ( ( V ` X ) ` ( y e. I |-> if ( y = X , 1 , 0 ) ) )
+        = .1. ) $=
+      ( c1 cv wceq cc0 cif cmpt cfv wcel cn0 snifpsrbag sylancl mvrval2 iftruei
+      1nn0 eqid eqtrdi ) ABGBUAJUBTUCUDUEZJHUFUFUPUPUBZELUDEABCDEFUPGHIJKLMNOPQ
+      RSAGIUGTUHUGUPCUGQUMBCFGTIJNUIUJUKUQELUPUNULUO $.
   $}
 
   ${
