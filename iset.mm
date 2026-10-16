@@ -72077,14 +72077,18 @@ $)
     ( cfsupp wbr cvv wcel relfsupp brrelex1i con3i ) ABCDAEFABCGHI $.
 
   ${
-    $d R r z $.  $d Z r z $.
+    $d R r w z $.  $d Z r w z $.
     $( The property of a class to be a finitely supported function (in relation
        to a given zero).  (Contributed by AV, 23-May-2019.) $)
-    isfsupp $p |- ( ( R e. V /\ Z e. W ) -> ( R finSupp Z
-                                    <-> ( Fun R /\ ( R supp Z ) e. Fin ) ) ) $=
-      ( vr vz cv wfun csupp co cfn wcel wa cfsupp wb funeq adantr oveq12 eleq1d
-      wceq anbi12d df-fsupp brabga ) EGZHZUDFGZIJZKLZMAHZADIJZKLZMEFADNBCUDATZU
-      FDTZMZUEUIUHUKULUEUIOUMUDAPQUNUGUJKUDAUFDIRSUAFEUBUC $.
+    isfsuppfi $p |- ( ( R e. V /\ Z e. U ) -> ( R finSupp Z
+        <-> ( Fun R /\ E. w ( w e. Fin /\ w C_ dom R
+          /\ ( R " ( dom R \ w ) ) = { Z } ) ) ) ) $=
+      ( vr vz cv wfun cfn cdm wss cdif cima csn wceq w3a wex wa adantr wb funeq
+      wcel cfsupp dmeq sseq2d simpl difeq1d imaeq12d sneq adantl eqeq12d exbidv
+      3anbi23d anbi12d df-fsuppfi brabga ) FHZIZAHZJUCZUTURKZLZURVBUTMZNZGHZOZP
+      ZQZARZSBIZVAUTBKZLZBVLUTMZNZEOZPZQZARZSFGBEUDDCURBPZVFEPZSZUSVKVJVSVTUSVK
+      UAWAURBUBTWBVIVRAWBVCVMVHVQVAWBVBVLUTVTVBVLPWAURBUETZUFWBVEVOVGVPWBURBVDV
+      NVTWAUGWBVBVLUTWCUHUIWAVGVPPVTVFEUJUKULUNUMUOGAFUPUQ $.
   $}
 
   ${
