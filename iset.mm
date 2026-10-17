@@ -72092,14 +72092,21 @@ $)
   $}
 
   ${
-    isfsuppd.r $e |- ( ph -> R e. V ) $.
-    isfsuppd.z $e |- ( ph -> Z e. W ) $.
-    isfsuppd.1 $e |- ( ph -> Fun R ) $.
-    isfsuppd.2 $e |- ( ph -> ( R supp Z ) e. Fin ) $.
-    $( Deduction form of ~ isfsupp .  (Contributed by SN, 29-Jul-2024.) $)
-    isfsuppd $p |- ( ph -> R finSupp Z ) $=
-      ( cfsupp wbr wfun csupp co cfn wcel wa wb isfsupp syl2anc mpbir2and ) ABE
-      JKZBLZBEMNOPZHIABCPEDPUBUCUDQRFGBCDESTUA $.
+    $d R w $.  $d W w $.  $d Z w $.
+    isfsuppfid.r $e |- ( ph -> R e. V ) $.
+    isfsuppfid.z $e |- ( ph -> Z e. U ) $.
+    isfsuppfid.1 $e |- ( ph -> Fun R ) $.
+    isfsuppfid.w $e |- ( ph -> W e. Fin ) $.
+    isfsuppfid.wss $e |- ( ph -> W C_ dom R ) $.
+    isfsuppfid.wz $e |- ( ph -> ( R " ( dom R \ W ) ) = { Z } ) $.
+    $( Deduction form of ~ isfsuppfi .  (Contributed by SN, 29-Jul-2024.)
+       (Revised by Jim Kingdon, 16-Oct-2026.) $)
+    isfsuppfid $p |- ( ph -> R finSupp Z ) $=
+      ( vw cfn wcel wss cdif cima wceq w3a cfsupp wbr wfun cv cdm csn wex eleq1
+      sseq1 difeq2 imaeq2d eqeq1d 3anbi123d spcegv syl mp3and isfsuppfi syl2anc
+      wi wa wb mpbir2and ) ABFUAUBZBUCZMUDZNOZVEBUEZPZBVGVEQZRZFUFZSZTZMUGZIAEN
+      OZEVGPZBVGEQZRZVKSZVNJKLAVOVOVPVSTZVNUSJVMVTMENVEESZVFVOVHVPVLVSVEENUHVEE
+      VGUIWAVJVRVKWAVIVQBVEEVGUJUKULUMUNUOUPABDOFCOVCVDVNUTVAGHMBCDFUQURVB $.
   $}
 
   $( The property of a function to be finitely supported (in relation to a
