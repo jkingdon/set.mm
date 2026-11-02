@@ -184358,6 +184358,45 @@ $)
         JURAWEWAKURAWAUQVPTZUSUTUOADUPPVGVIVJVSVAVFACDFUKGJKVBMNLVHVMEDVPVTWFWG
         VCVDVE $.
     $}
+
+    mpllss.r $e |- ( ph -> R e. Ring ) $.
+
+    ${
+      mplsubrglem.x $e |- ( ph -> X e. U ) $.
+      mplsubrglem.y $e |- ( ph -> Y e. U ) $.
+      $( Lemma for ~ mplsubrgfi .  Polynomials are closed under multiplication.
+         (Contributed by Mario Carneiro, 9-Jan-2015.)  (Revised by AV,
+         18-Jul-2019.) $)
+      mplsubrglemcl $p |- ( ph -> ( X ( .r ` S ) Y ) e. U ) $=
+        ? $.
+    $}
+
+    ${
+      $d I k p q $.  $d R k p q $.  $d S k p q $.  $d S x y $.  $d U x y $.
+      $d k p ph q $.  $d ph x y $.
+      $( The set of polynomials is closed under multiplication, i.e. it is a
+         subring of the set of power series.  (Contributed by Mario Carneiro,
+         9-Jan-2015.) $)
+      mplsubrgfi $p |- ( ph -> U e. ( SubRing ` S ) ) $=
+        ( vx cfv wcel eqid syl cn0 cfn wceq adantr vy vq vk csubrg csubg cur cv
+        cmulr wral ringgrpd mplsubgfi cbs c0g cfsupp wbr crg psrringfi ringidcl
+        co cmap cc0 csn cxp psrelbasfi cgrp grpidcl cvv 0nn0 snfig mp1i fconst6
+        xpexd wf nn0ex a1i elmapd mpbiri snssd cdif cif eqeq1 ifbid cmpt psr1fi
+        wa eldifi adantl wdc psrbagfidceq syl3anc ifcldcd fvmptd4 wne ifnefalse
+        eldifsni eqtrd isfsuppf mplelbas simprl simprr mplsubrglemcl ralrimivva
+        sylanbrc w3a wb issubrg2 mpbir3and ) AEDUDMNZEDUEMNZDUFMZENZLUGZUAUGZDU
+        HMZUSENZUAEUILEUIZABCDEFGHIJACKUJZUKAXJDULMZNZXJCUMMZUNUOXKADUPNZXSACDF
+        GJKUQZXRDXJXROZXJOZURPZAQFUTUSZCULMZUBXJXRFVAVBZVCZVBZXTAXRCDFYGXJGYGOZ
+        JYCYEVDYEACVENXTYGNZXQYGCXTYKXTOZVFPZAYIVGNYJRNAFYHRRJVAQNYHRNAVHVAQVIV
+        JVLYIVGVIPAYIYFAYIYFNZFQYIVMFVAQVHVKAQFYIVGRQVGNAVNVOJVPVQZVRAUBUGZYFYJ
+        VSNZWEZYQXJMYQYISZCUFMZXTVTZXTYSUCYQUCUGZYISZUUAXTVTZUUBYFXJYGUUCYQSUUD
+        YTUUAXTUUCYQYIWAWBAXJUCYFUUEWCSYRAUCCDXJUUAFXTGJKYMUUAOZYDWDTYRYQYFNZAY
+        QYFYJWFWGZYSYTUUAXTYGAUUAYGNZYRACUPNZUUIKYGCUUAYKUUFURPTAYLYRYNTYSFRNZU
+        UGYOYTWHAUUKYRJTUUHAYOYRYPTYQYIFWIWJWKWLYRUUBXTSZAYRYQYIWMUULYQYFYIWOYQ
+        YIUUAXTWNPWGWPWQXRBCDEFXJXTHGYCYMIWRXCAXOLUAEEAXLENZXMENZWEZWEBCDEFXLXM
+        GHIAUUKUUOJTAUUJUUOKTAUUMUUNWSAUUMUUNWTXAXBAYAXHXIXKXPXDXEYBLUAEXRDXNXJ
+        YCYDXNOXFPXG $.
+    $}
   $}
 
   ${
