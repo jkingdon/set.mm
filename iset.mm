@@ -183031,6 +183031,41 @@ $)
   $}
 
   ${
+    $( It is decidable whether one finite bag dominates another.  (Contributed
+       by Jim Kingdon, 5-Nov-2026.) $)
+    psrbagdcle $p |- ( ( A e. ( NN0 ^m I ) /\ B e. ( NN0 ^m I ) /\ I e. Fin )
+        -> DECID A oR <_ B ) $=
+      ? $.
+  $}
+
+  ${
+    psrbagfsuppub.f $e |- ( ph -> F : ( NN0 ^m I ) --> B ) $.
+    psrbagfsuppub.z $e |- ( ph -> Z e. B ) $.
+    psrbagfsuppub.i $e |- ( ph -> I e. Fin ) $.
+    psrbagfsuppub.s $e |- ( ph -> F finSupp Z ) $.
+    $( Given a finitely supported function on finite bags, there is an upper
+       bound of values which can map to anything other than zero.  (Contributed
+       by Jim Kingdon, 5-Nov-2026.) $)
+    psrbagfsuppub $p |- ( ph -> E. k e. ( NN0 ^m I ) A. y e. ( NN0 ^m I )
+        ( -. y oR <_ k -> ( F ` y ) = Z ) ) $=
+      ? $.
+  $}
+
+  ${
+    psrbagfsuppd.f $e |- ( ph -> F : ( NN0 ^m I ) --> B ) $.
+    psrbagfsuppd.z $e |- ( ph -> Z e. B ) $.
+    psrbagfsuppd.i $e |- ( ph -> I e. Fin ) $.
+    psrbagfsuppd.k $e |- ( ph -> K e. ( NN0 ^m I ) ) $.
+    psrbagfsuppd.y $e |- ( ( ph /\ y e. ( NN0 ^m I ) )
+      -> ( -. y oR <_ K -> ( F ` y ) = Z ) ) $.
+    $( Given a function on finite bags, where there is an upper bound of values
+       which can map to anything other than zero, the function is finitely
+       supported.  (Contributed by Jim Kingdon, 5-Nov-2026.) $)
+    psrbagfsuppd $p |- ( ph -> F finSupp Z ) $=
+      ? $.
+  $}
+
+  ${
     $d D u v w x $.  $d D y $.  $d D x z $.  $d F f $.  $d F u v w x $.
     $d F y $.  $d F x z $.  $d I f $.  $d I z $.  $d S u v w $.  $d S z $.
     $d X f $.  $d X u v w x $.  $d X y $.  $d X x z $.  $d Y f $.
