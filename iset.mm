@@ -184663,6 +184663,14 @@ $)
     mpllss.r $e |- ( ph -> R e. Ring ) $.
 
     ${
+      $( The set of polynomials is closed under scalar multiplication, i.e. it
+         is a linear subspace of the set of power series.  (Contributed by
+         Mario Carneiro, 7-Jan-2015.)  (Proof shortened by AV, 16-Jul-2019.) $)
+      mpllss $p |- ( ph -> U e. ( LSubSp ` S ) ) $=
+        ? $.
+    $}
+
+    ${
       $d I i k s p t x $.  $d I p t u v $.  $d I i x y $.  $d R i p s t x $.
       $d R k $.  $d R p s t u v $.  $d S k s t x $.  $d X k i p s t x $.
       $d X p s t u v $.  $d Y i k p s t x $.  $d Y p s t u v $.  $d i k p x $.
