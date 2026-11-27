@@ -185188,6 +185188,16 @@ $)
         VSUACVIWACGHKBUAIVRNRSVRVGOVJVSUACVKVLWICWCWGUHZUHWHJWPCJWFUAWCVIWPWCED
         WBJUAIWELWMWNWOTVJWFUAWCVKVLVMCWCWGVNVOVP $.
     $}
+
+    ressmpl.p $e |- P = ( S |`s B ) $.
+    $( A restricted polynomial algebra has the same base set.  (Contributed by
+       Mario Carneiro, 3-Jul-2015.) $)
+    ressmplbasfi $p |- ( ph -> B = ( Base ` P ) ) $=
+      ( cfv cvv co wcel cbs cress wceq a1i eqidd cxp wfn fnmpl cfn elexd csubrg
+      cmpl crg subrgrcl syl fnovex mp3an2i eqeltrid cmps cin eqid ressmplbas2fi
+      inss2 eqsstrdi ressbas2d ) ABEUAQZCERCEBUBSUCAPUDAVFUEAEIDULSZRJULRRUFUGA
+      IRTDRTVGRTUHAIUINUJADUMAFDUKQTDUMTOFDUNUOUJIDRRULUPUQURABIHUSSZUAQZVFUTVF
+      ABVIDEFGHIVFVHJKLMNOVHVAVIVAVFVAVBVIVFVCVDVE $.
   $}
 
 
