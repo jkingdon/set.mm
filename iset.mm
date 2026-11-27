@@ -185200,6 +185200,36 @@ $)
       ABVIDEFGHIVFVHJKLMNOVHVAVIVAVFVAVBVIVFVCVDVE $.
   $}
 
+  ${
+    $d f C $.  $d f H $.  $d f I $.  $d f ph $.  $d f R $.
+    ressmpladd.s $e |- S = ( I mPoly R ) $.
+    ressmpladd.h $e |- H = ( R |`s T ) $.
+    ressmpladd.u $e |- U = ( I mPoly H ) $.
+    ressmpladd.b $e |- B = ( Base ` U ) $.
+    ressmpladd.1 $e |- ( ph -> I e. V ) $.
+    ressmpladd.2 $e |- ( ph -> T e. ( SubRing ` R ) ) $.
+    ressmpladd.p $e |- P = ( S |`s B ) $.
+    $( A restricted polynomial algebra has the same addition operation.
+       (Contributed by Mario Carneiro, 3-Jul-2015.) $)
+    ressmpladd $p |- ( ( ph /\ ( X e. B /\ Y e. B ) ) ->
+        ( X ( +g ` U ) Y ) = ( X ( +g ` P ) Y ) ) $=
+      ( cvv wcel wa cmps co cplusg cfv cbs cress wceq mplbasss sseli resspsradd
+      eqid anim12i sylan2 crg csubrg subrgrcl syl ressex syl2anc eqeltrid eqidd
+      mplval2g wfn basfn cmpl fnmpl elexd fnovex mp3an2i funfvex funfni sylancr
+      cxp fnpsr ressplusgd oveqd adantr a1i 3eqtr3d ) AKBUAZLBUAZUBZUBKLIHUCUDZ
+      UEUFZUDZKLIDUCUDZWEUGUFZUHUDZUEUFZUDZKLGUEUFZUDZKLCUEUFZUDZWDAKWIUAZLWIUA
+      ZUBWGWLUIWBWQWCWRBWIKWIGHWEBIOWEUMZPWIUMZUJZUKBWILXAUKUNAWIWJDWHFWEHIKLWH
+      UMZNWSWTWJUMRULUOAWGWNUIWDAWFWMKLABWFWEGTTAIJUAZHTUAZGWEBUHUDUIQAHDFUHUDZ
+      TNADUPUAZFDUQUFZUAZXETUAAXHXFRFDURUSZRFDUPXGUTVAVBZGHWEBIJTOWSPVDVAAWFVCA
+      BGUGUFZTPAUGTVEZGTUAXKTUAZVFAGIHVGUDZTOVGTTVOZVEZAITUAZXDXNTUAVHAIJQVIZXJ
+      IHTTVGVJVKVBXMTGUGGUGVLVMVNVBZUCXOVEZAXQXDWETUAZVPXRXJIHTTUCVJVKZVQVRVSAW
+      LWPUIWDAWKWOKLAWHUEUFZEUEUFZWKWOAEUGUFZYCWHETTAXCXFEWHYEUHUDUIQXIEDWHYEIJ
+      UPMXBYEUMVDVAAYCVCZAXLETUAYETUAZVFAEIDVGUDZTMXPAXQDTUAZYHTUAVHXRADUPXIVIZ
+      IDTTVGVJVKVBZYGTEUGEUGVLVMVNXTAXQYIWHTUAVPXRYJIDTTUCVJVKZVQAWIYCWHWJTTAWJ
+      VCYFAXLYAWITUAZVFYBYMTWEUGWEUGVLVMVNYLVQABYDECTTCEBUHUDUIASVTAYDVCXSYKVQW
+      AVRVSWA $.
+  $}
+
 
 $(
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
