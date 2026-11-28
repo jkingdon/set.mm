@@ -185260,6 +185260,36 @@ $)
       EWAGVEVRWATWFVRTVQTIADBCVFUFZVEKAWGWCWIVEQWHJCBVAWBVGVHVIVBVJ $.
   $}
 
+  ${
+    $d .0. k y $.  $d .1. k y $.  $d D y $.  $d I k y $.  $d R y $.
+    $d X k y $.  $d k ph y $.
+    mplmon.s $e |- P = ( I mPoly R ) $.
+    mplmon.b $e |- B = ( Base ` P ) $.
+    mplmon.z $e |- .0. = ( 0g ` R ) $.
+    mplmon.o $e |- .1. = ( 1r ` R ) $.
+    mplmonfi.i $e |- ( ph -> I e. Fin ) $.
+    mplmon.r $e |- ( ph -> R e. Ring ) $.
+    mplmonfi.x $e |- ( ph -> X e. ( NN0 ^m I ) ) $.
+    $( A monomial is a polynomial.  (Contributed by Mario Carneiro,
+       9-Jan-2015.) $)
+    mplmonfi $p |- ( ph ->
+        ( y e. ( NN0 ^m I ) |-> if ( y = X , .1. , .0. ) ) e. B ) $=
+      ( cbs wcel adantr cvv vk cn0 cmap co cv wceq cif cmpt cmps cfv cfsupp wbr
+      wf wa crg ringidcl syl ring0cl cfn wdc simpr psrbagfidceq syl3anc ifcldcd
+      eqid fmpttd wfn basfn elexd funfvex funfni sylancr cxp fnmap nn0ex fnovex
+      mp3an12i elmapd mpbird psrbasfi eleqtrrd csn snfig snssd cdif eqeq1 ifbid
+      mptexd eldifi fvmptd3 eldifsni ifnefalse eqtrd isfsuppf mplelbas sylanbrc
+      adantl wne ) ABUBGUCUDZBUEZHUFZFIUGZUHZGEUIUDZQUJZRXCIUKULXCCRAXCEQUJZWSU
+      CUDZXEAXCXGRWSXFXCUMABWSXBXFAWTWSRZUNZXAFIXFAFXFRZXHAEUORZXJOXFEFXFVEZMUP
+      UQZSAIXFRZXHAXKXNOXFEIXLLURUQZSXIGUSRZXHHWSRZXAUTAXPXHNSAXHVAAXQXHPSWTHGV
+      BVCVDVFZAXFWSXCTTAQTVGETRXFTRZVHAEUOOVIXSTEQEQVJVKVLUCTTVMVGUBTRAGTRWSTRV
+      NVOAGUSNVIUBGTTUCVPVQZVRVSAXEEXDGXFUOXDVEZXLNXEVEZOVTWAAWSXFUAXCTHWBZIXRA
+      BWSXBTXTWHXOAXQYCUSRPHWSWCUQAHWSPWDAUAUEZWSYCWERZUNZYDXCUJYDHUFZFIUGZIYFB
+      YDXBYHWSXCXFXCVEWTYDUFXAYGFIWTYDHWFWGYEYDWSRZAYDWSYCWIWQZYFYGFIXFAXJYEXMS
+      AXNYEXOSYFXPYIXQYGUTAXPYENSYJAXQYEPSYDHGVBVCVDWJYFYDHWRZYHIUFYEYKAYDWSHWK
+      WQYDHFIWLUQWMWNXEDEXDCGXCIJYAYBLKWOWP $.
+  $}
+
 
 $(
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
