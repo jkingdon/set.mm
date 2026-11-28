@@ -183394,6 +183394,17 @@ $)
     psrelbasfi.k $e |- K = ( Base ` R ) $.
     psrelbasfi.f $e |- ( ph -> I e. Fin ) $.
     psrelbasfi.b $e |- B = ( Base ` S ) $.
+
+    ${
+      psrbasfi.r $e |- ( ph -> R e. W ) $.
+      $( The base set of the multivariate power series structure.  (Contributed
+         by Jim Kingdon, 27-Nov-2026.) $)
+      psrbasfi $p |- ( ph -> B = ( K ^m ( NN0 ^m I ) ) ) $=
+        ( vf cv ccnv cn cfn wcel cmap co cima cn0 crab eqid psrbasg wceq oveq2d
+        psrbagfi syl eqtrd ) ABFMNOPUAQRMUBESTZUCZSTFUKSTABULCDMEFQGHIULUDZKJLU
+        EAULUKFSAEQRULUKUFJULMEUMUHUIUGUJ $.
+    $}
+
     psrelbasfi.x $e |- ( ph -> X e. B ) $.
     $( Simpler form of ~ psrelbas when the index set is finite.  (Contributed
        by Jim Kingdon, 27-Nov-2025.) $)
