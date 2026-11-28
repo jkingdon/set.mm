@@ -185230,6 +185230,25 @@ $)
       AVRVSWA $.
   $}
 
+  ${
+    $d x B $.  $d x y H $.  $d f x y z I $.  $d x y ph $.  $d x V $.  $d z W $.
+    $d x y R $.
+    subrgmvr.v $e |- V = ( I mVar R ) $.
+    subrgmvr.i $e |- ( ph -> I e. W ) $.
+    subrgmvr.r $e |- ( ph -> T e. ( SubRing ` R ) ) $.
+    subrgmvr.h $e |- H = ( R |`s T ) $.
+    $( The variables in a subring polynomial algebra are the same as the
+       original ring.  (Contributed by Mario Carneiro, 4-Jul-2015.) $)
+    subrgmvr $p |- ( ph -> V = ( I mVar H ) ) $=
+      ( vx vy vf vz cv wcel cmpt cfv eqid ccnv cn cima cfn cmap co crab wceq c1
+      cn0 cc0 cif cur c0g csubrg subrg1 syl subrg0 ifeq12d mpteq2dv crg mvrfval
+      cmvr subrgrcl cvv cress ressex syl2anc eqeltrid 3eqtr4d ) ALEMNPUAUBUCUDQ
+      NUJEUEUFUGZMPOEOPLPUHUIUKULRUHZBUMSZBUNSZULZRZRLEMVKVLDUMSZDUNSZULZRZRFED
+      VCUFZALEVPVTAMVKVOVSAVLVMVQVNVRACBUOSZQZVMVQUHJCBDVMKVMTZUPUQAWCVNVRUHJCB
+      DVNKVNTZURUQUSUTUTALOVKBVMMNEFGVAVNHVKTZWEWDIAWCBVAQZJCBVDUQZVBALOVKDVQMN
+      EWAGVEVRWATWFVRTVQTIADBCVFUFZVEKAWGWCWIVEQWHJCBVAWBVGVHVIVBVJ $.
+  $}
+
 
 $(
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
